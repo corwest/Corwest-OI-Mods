@@ -1,3 +1,3 @@
-These files are a frankenstien lead screw solution I came up with. I do not know the lead pitch since I don't know how to correctly create them in fusion360 but they are what I am trying at the moment. 
+These files are a frankenstien lead screw solution I came up with. I do not know the lead pitch since I don't know how to correctly create them in fusion360 but they are what I am trying at the moment. The lead is less important with the endstop method since the servo does not require an amount of lift per rotation to acheive full action. The only requirement is that the lead is designed to support the wieght of the craft. 
 
 The 2.5mm lead is to use as a die to cut a blank lifting beam, the 2.4mm lead is to print as your actual lead screw.
