@@ -1,0 +1,13 @@
+These are the modded frame sections fro use with my designs.
+
+The motor mounts design was origionally from the RCGroups thread by @fragmaster, @MR. RCCAM, @helifrek and many others. THey have been modded to accept 20mm CF tube, the DJI E800 motor mount pattern, and the DJI 620S Status LED on the front.
+
+I have added a one piece foot design to the motor mounts instead of the split design.
+
+The Expansion Frame has the wire routing openings extended outward to help with clearance from the battery.
+
+I havve designed walls to enclose the battery instead of using the CF tube. 
+
+I have altered @dales's main frame to accept radial bearings for the lifting arms, I have implimented @Fugbucker's idea of using PTFE tubing in the lifting beam channel, and I have made mount pionts for endstops to enable the use of the continuous servo and endstop lifting solution. 
+
+I have designed a mount for a NAZA sized GPS puck to be placed on top of the lifting beam servo.
