@@ -4,6 +4,10 @@
 
 My name is Corey [@corwest](http://openinspired.org/user/corwest/) and this is my collection of files from the [Open inspired Project](http://openinspired.org/). Please visit the [Forums over at OI](http://openinspired.org/forum/) and become a member and contribute!
 
+# GPL
+
+These files are covered under GPL V3. You are free to use, share, or modify as you wish. The only request is that you give credit to those who have created them and point people to the [OI Forums](http://openinspired.org/forum/) to see the real magic taking gplace. 
+
 # Printing
 
 **Conversion** - I may add stl versions later on but until I do, these step/stp files must be converted to stl format for printing. any cad software can accomplish this. I use Autodesk 123D Design and Fusion360.
