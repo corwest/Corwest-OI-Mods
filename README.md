@@ -2,7 +2,7 @@
 
 # Hello World
 
-My name is Corey [@corwest](http://openinspired.org/user/corwest/) and this is my collection of files from the [Open inspired Project](http://openinspired.org/). Please visit the [Forums over at OI](http://openinspired.org/forum/) and become a member and contribute!
+My name is Corey [@corwest](http://openinspired.org/user/corwest/) and this is my collection of mods from the [Open inspired Project](http://openinspired.org/). Please visit the [Forums over at OI](http://openinspired.org/forum/) and become a member and contribute!
 
 # GPL
 
